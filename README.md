@@ -1,5 +1,4 @@
-# 💫 About Me:
-A computer science student
+## A computer science student
 
 
 ## 🌐 Socials:
