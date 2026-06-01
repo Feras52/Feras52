@@ -1,7 +1,4 @@
-
-
 # A Computer Science Student
-
 
 ## 🌐 Socials
 
@@ -9,11 +6,9 @@
   <a href="https://discord.gg/842833976322162730">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
   <a href="https://facebook.com/firas.ch.851750">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
   <a href="mailto:chandoulfiras2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -22,6 +17,8 @@
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
 
@@ -34,6 +31,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Feras52&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 ### Frontend
 
@@ -72,8 +71,4 @@
   <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=flat-square&logo=junit5&logoColor=dc524a"/>
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Feras52&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
