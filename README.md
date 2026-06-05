@@ -22,11 +22,11 @@
 
 <div align="center">
 
-### Languages
+<h3 align="left">Languages</h3>
 
-<table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; width: 100%; max-width: 800px;">
-  <tr style="border: none;">
-    <td align="center" valign="middle" width="50%" style="border: none; padding-right: 15px;">
+<table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; width: 100%; max-width: 800px; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" width="50%" style="border: none; padding-right: 15px; background: transparent;">
       <p align="center" style="margin-bottom: 10px;">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -39,13 +39,13 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       </p>
     </td>
-    <td align="center" valign="middle" width="50%" style="border: none; padding-left: 15px;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Feras52&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <td align="center" valign="middle" width="50%" style="border: none; padding-left: 15px; background: transparent;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Feras52&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border: none;" />
     </td>
   </tr>
 </table>
 
-### Frontend
+<h3 align="left">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-### Backend & Database
+<h3 align="left">Backend & Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -61,14 +61,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Artificial Intelligence
+<h3 align="left">Artificial Intelligence</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+<h3 align="left">Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
