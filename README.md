@@ -1,5 +1,5 @@
 
-<h1 align="center">A Computer Science Student</h1>
+<h1 align="center">A Computer Science Student</h1> 
 
 <p align="center">
   <a href="https://discord.gg/842833976322162730" target="_blank">
