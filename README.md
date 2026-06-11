@@ -40,7 +40,7 @@
       </p>
     </td>
     <td align="center" valign="middle" width="50%" style="border: none; padding-left: 15px; background: transparent;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Feras52&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border: none;" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Feras52&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border: none;" />
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
 <br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=true" />
   <br/>
 </p>
 
