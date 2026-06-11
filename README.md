@@ -82,7 +82,7 @@
 <br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=false" />
   <br/>
 </p>
 
