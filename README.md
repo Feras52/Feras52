@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetworkMiner-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Zui-1F6FEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cisco-1EA0D9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  
 </p>
 
 <h3 align="left">Web & App</h3>
@@ -89,6 +89,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1EA0D9?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 <br />
