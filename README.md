@@ -1,4 +1,3 @@
-
 <h1 align="center">Computer Science Student</h1> 
 
 <p align="center">
@@ -14,6 +13,16 @@
   <a href="mailto:chandoulfiras2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</p>
+
+---
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  Hi, I'm Firas, a computer science student passionate about building and understanding how systems work.<br/>
+  I've built web and mobile applications using React, TypeScript, Express, and Java, which gave me a solid foundation in software development.<br/>
+  I'm now focusing on cybersecurity, learning network traffic analysis and threat investigation through hands-on practice with tools like Wireshark, NetworkMiner, and Zui.
 </p>
 
 ---
@@ -45,20 +54,25 @@
   </tr>
 </table>
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">Cybersecurity</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetworkMiner-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zui-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cisco-1EA0D9?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+<h3 align="left">Web & App</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-<h3 align="left">Backend & Database</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 <h3 align="left">Artificial Intelligence</h3>
@@ -73,9 +87,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1EA0D9?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
