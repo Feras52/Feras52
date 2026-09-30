@@ -1,5 +1,14 @@
 <h1 align="center">Computer Science Student</h1> 
 
+
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  Hi, I'm Firas, a computer science student passionate about building and understanding how systems work.<br/>
+  I've built web and mobile applications using React, TypeScript, Express, and Java, which gave me a solid foundation in software development.<br/>
+  I'm now focusing on cybersecurity, learning network traffic analysis and threat investigation through hands-on practice with tools like Wireshark, NetworkMiner, and Zui.
+</p>
 <p align="center">
   <a href="https://discord.gg/842833976322162730" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -17,15 +26,6 @@
 
 ---
 
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-  Hi, I'm Firas, a computer science student passionate about building and understanding how systems work.<br/>
-  I've built web and mobile applications using React, TypeScript, Express, and Java, which gave me a solid foundation in software development.<br/>
-  I'm now focusing on cybersecurity, learning network traffic analysis and threat investigation through hands-on practice with tools like Wireshark, NetworkMiner, and Zui.
-</p>
-
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
