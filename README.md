@@ -1,5 +1,6 @@
 
 <h1 align="center">Computer Science Student</h1> 
+<h3 align="center" >Cybersecurity & Software Development | Network Traffic Analysis</h3>
 
 
 
