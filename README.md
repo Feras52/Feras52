@@ -1,28 +1,25 @@
-
-<h1 align="center">Computer Science Student</h1> 
-<h3 align="center" >Cybersecurity & Software Development | Network Traffic Analysis</h3>
+<h1 align="center">Computer Science Student</h1>
+<h3 align="center">Software Development | Cybersecurity | Artificial Intelligence</h3>
 
 
 
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  Hi, I'm Firas, a computer science student passionate about building and understanding how systems work.<br/>
-  I've built web and mobile applications using React, TypeScript, Express, and Java, which gave me a solid foundation in software development.<br/>
-  I'm now focusing on cybersecurity, learning network traffic analysis and threat investigation through hands-on practice with tools like Wireshark, NetworkMiner, and Zui.
+  Hi, I'm Firas, a Computer Science student interested in building and understanding how systems work.<br/>
+  My projects have allowed me to explore software development, artificial intelligence, and cybersecurity through practical work.<br/>
+  I'm particularly interested in technologies and projects that bring different areas of computer science together.
 </p>
+
 <p align="center">
-  <a href="https://discord.gg/842833976322162730" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://facebook.com/firas.ch.851750" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/firas_ch01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/firaschandoul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:chandoulfiras2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.gg/842833976322162730" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
@@ -33,21 +30,20 @@
 
 <div align="center">
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Programming Languages</h3>
 
 <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; width: 100%; max-width: 800px; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td align="center" valign="middle" width="50%" style="border: none; padding-right: 15px; background: transparent;">
       <p align="center" style="margin-bottom: 10px;">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       </p>
       <p align="center" style="margin-top: 0; margin-bottom: 0;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge" alt="PL/SQL"/>
       </p>
     </td>
     <td align="center" valign="middle" width="50%" style="border: none; padding-left: 15px; background: transparent;">
@@ -56,51 +52,49 @@
   </tr>
 </table>
 
-<h3 align="left">Cybersecurity</h3>
+<h3 align="left">Cybersecurity & Networking</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetworkMiner-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Suricata-EF3B2C?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata">
-  <img src="https://img.shields.io/badge/Zui-1F6FEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wazuh-00BFFF?style=for-the-badge"/>
- 
-  
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Suricata-EF3B2C?style=for-the-badge" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Wazuh-00BFFF?style=for-the-badge" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/VLANs-4169E1?style=for-the-badge" alt="VLANs"/>
+  <img src="https://img.shields.io/badge/Routing-2C3E50?style=for-the-badge" alt="Routing"/>
 </p>
 
-<h3 align="left">Web & App</h3>
+<h3 align="left">Software Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
 </p>
 
-<h3 align="left">Artificial Intelligence</h3>
+<h3 align="left">Artificial Intelligence & Data</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG"/>
 </p>
 
-<h3 align="left">Tools & Platforms</h3>
+<h3 align="left">Tools & Methodologies</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1EA0D9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge" alt="XML"/>
+</p>
+<p align="center">
+  <strong>Methodologies:</strong> Scrum, UML
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
 </p>
 
