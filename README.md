@@ -1,5 +1,10 @@
 <h1 align="center">Computer Science Student</h1>
-<h3 align="center">Software Development | Cybersecurity | Artificial Intelligence</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=10000&color=38BDF8&center=true&vCenter=true&width=850&height=40&lines=Software+Development+%7C+Cybersecurity+%7C+Artificial+Intelligence"
+    alt="Software Development | Cybersecurity | Artificial Intelligence"
+  />
+</p>
 
 
 
