@@ -97,5 +97,12 @@
   <img src="https://streak-stats.demolab.com/?user=feras52&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
 </p>
+<img
+  src="https://gitcity.natrajx.in/api/svg?u=Feras52&theme=ocean"
+  alt="GitHub Contribution Skyline"
+  width="70%"
+/>
 
 </div>
+
+
